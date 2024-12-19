@@ -1,0 +1,7 @@
+# ninja log v5
+0	53	1697209423889298659	build.ninja	964dcb9ee2a3bfe9
+2	303	1697209241343547476	CMakeFiles/hwAVL.dir/main.cpp.o	cbf9724971286633
+485	538	1697049638604783915	hwAVL	ce79a2ff6a773b8d
+3	383	1697208953420856499	CMakeFiles/hwAVL.dir/autocompleter.cpp.o	16a3d0ee145becf9
+0	53	1697209423889298659	build.ninja	964dcb9ee2a3bfe9
+2	323	1697209424217882710	CMakeFiles/hwAVL.dir/autocompleter.cpp.o	16a3d0ee145becf9

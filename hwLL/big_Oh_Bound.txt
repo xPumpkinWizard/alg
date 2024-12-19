@@ -1,0 +1,19 @@
+stackLL:
+empty(): O(1) - Checking if the stack is empty takes constant time.
+push(x): O(1) - Pushing an element onto the stack takes constant time.
+pop(): O(1) - Popping the top element from the stack takes constant time.
+insertAt(x, i): O(n) - Inserting an element at a specific position 'i' in the stack can take O(n)
+time in the worst case because you may need to traverse the entire stack to find the position.
+
+queueLL:
+empty(): O(1) - Checking if the queue is empty takes constant time.
+enqueue(x): O(1) - Enqueuing an element at the rear of the queue takes constant time.
+dequeue(): O(1) - Dequeuing the front element from the queue takes constant time.
+
+priorityQueueLL:
+empty(): O(1) - Checking if the priority queue is empty takes constant time.
+insert(x): O(n) - In the worst case, inserting an element into the priority queue may take
+O(n) time because you may need to traverse the entire list to find the correct position for insertion.
+extractMin(): O(n) - Extracting the minimum element from the priority queue
+may take O(n) time in the worst case, depending on your implementation.
+If you use a simple linked list, you'll need to search for the minimum element, which can take linear time.
