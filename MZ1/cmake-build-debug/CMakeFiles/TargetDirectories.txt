@@ -1,0 +1,3 @@
+/Users/miguelhernandez/CLionProjects/fall2024/MZ1/cmake-build-debug/CMakeFiles/MZ1.dir
+/Users/miguelhernandez/CLionProjects/fall2024/MZ1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miguelhernandez/CLionProjects/fall2024/MZ1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

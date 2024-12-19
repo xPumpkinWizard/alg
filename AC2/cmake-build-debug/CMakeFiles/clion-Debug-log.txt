@@ -1,0 +1,4 @@
+/Users/miguelhernandez/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/miguelhernandez/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/miguelhernandez/CLionProjects/fall2024/AC2 -B /Users/miguelhernandez/CLionProjects/fall2024/AC2/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/miguelhernandez/CLionProjects/fall2024/AC2/cmake-build-debug

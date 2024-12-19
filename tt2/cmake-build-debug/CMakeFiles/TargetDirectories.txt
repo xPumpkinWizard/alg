@@ -1,0 +1,3 @@
+/Users/miguelhernandez/CLionProjects/fall2024/tt2/cmake-build-debug/CMakeFiles/tt2.dir
+/Users/miguelhernandez/CLionProjects/fall2024/tt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miguelhernandez/CLionProjects/fall2024/tt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
